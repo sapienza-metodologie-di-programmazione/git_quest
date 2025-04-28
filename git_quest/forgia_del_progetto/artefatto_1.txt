@@ -2,3 +2,4 @@
 Questo è il testo originale del primo artefatto.
 È importante conservare la sua integrità.
 Qualsiasi modifica deve essere tracciata con cura.
+Nuovo contenuto aggiunto all'artefatto 1.
